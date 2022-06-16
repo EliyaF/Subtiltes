@@ -1,0 +1,2 @@
+srt~=3.5.2
+pytimedinput~=2.0.1
