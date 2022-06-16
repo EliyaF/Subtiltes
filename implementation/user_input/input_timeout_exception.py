@@ -1,0 +1,2 @@
+class InputTimeoutException(Exception):
+    pass
